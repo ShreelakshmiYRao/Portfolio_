@@ -47,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="My Portfolio"
               description="I developed a personal website to present my projects, skills, and contact information, featuring a clean, responsive design built with HTML, CSS, and JavaScript."
-              ghLink=""
-              demoLink=""              
+              ghLink="https://github.com/ShreelakshmiYRao/Portfolio_"
+              demoLink="https://shreelakshmiraoportfolio.netlify.app/"              
             />
           </Col>
 
