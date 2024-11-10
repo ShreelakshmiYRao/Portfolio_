@@ -5,11 +5,9 @@ import { DiHtml5, DiCss3 } from "react-icons/di";
 import { FaCuttlefish } from "react-icons/fa";
 import {
   DiJavascript1,
- 
   DiMongodb,
   DiPython,
  
-  DiJava,
 } from "react-icons/di";
 
 function Techstack() {
