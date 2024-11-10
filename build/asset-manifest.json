@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.179aeb49.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfolio.jpg": "/static/media/portfolio.567651c2127cd5e62cb3.jpg",
+    "static/media/wedding.png": "/static/media/wedding.7ab4f00013603b3e4a05.png",
+    "static/media/image.png": "/static/media/image.fee3c3d325278491a771.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/shoe.jpg": "/static/media/shoe.5b5f9b21138b19fb36ca.jpg",
+    "static/media/crop.jpg": "/static/media/crop.92943f215f9e8aa0e0fb.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Shreelakshmi.pdf": "/static/media/Shreelakshmi.863be26968fd54e57515.pdf",
+    "static/media/homeimage.jpg": "/static/media/homeimage.d81219f20d4562ee4d35.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.179aeb49.js.map": "/static/js/main.179aeb49.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.179aeb49.js"
+  ]
+}
